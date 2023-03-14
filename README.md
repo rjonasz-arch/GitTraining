@@ -1,0 +1,2 @@
+# GitTraining
+CI/CD course
